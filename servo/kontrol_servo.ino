@@ -3,8 +3,11 @@
 // buat object 
 Servo myServo;
 
-// Define the servo pin
+// Define the servo pin (Arduino)
 const int servoPin = 9;
+
+//wemos
+// const int servoPin = D7;
 
 // Define variables untuk posisi servo dan arah
 int pos = 0;
