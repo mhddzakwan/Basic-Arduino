@@ -1,6 +1,12 @@
+//Arduino
 #DEFINE LED_RED 7
 #DEFINE LED_YELLOW 8
 #DEFINE LED_GREEN 9
+
+//wemos
+// #DEFINE LED_RED D1
+// #DEFINE LED_YELLOW D2
+// #DEFINE LED_GREEN D3
 
 void setup(){
   pinMode(LED_RED, OUTPUT);
