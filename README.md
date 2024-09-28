@@ -140,7 +140,7 @@ Sensor Ultrasonic HC-SR04 adalah sensor jarak. Menggunakan prinsip kecepatan sua
 
 ## Cara mengendalikan 3 Buah LED
 
-### Wiring HC-SR04 menggunakan breadboard
+### Wiring LED menggunakan breadboard
 ![Alt text](images/led3_arduino.png)
 
 - Negatif -> GND
@@ -148,7 +148,7 @@ Sensor Ultrasonic HC-SR04 adalah sensor jarak. Menggunakan prinsip kecepatan sua
 - Positif merah -> 8
 - Positif merah -> 9
 
-[click disini untuk melihat code](https://github.com/mhddzakwan/Basic-Arduino/blob/main/hcsr/baca_hcsr.ino)
+[click disini untuk melihat code](https://github.com/mhddzakwan/Basic-Arduino/blob/main/led/led_arduino.ino)
 
 ## Cara mengendalikan motor servo
 - Motor servo adalah perangkat yang dapat berputar ke lokasi spesifik atau ke angle spesifik berdasarkan input sinyal yang diterima
