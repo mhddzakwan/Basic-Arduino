@@ -3,6 +3,10 @@
 #define trigpin 2
 #define echopin 3
 
+//set pin untuk HC-SR04 sensor (Wemos D1 mini)
+// #define trigpin D5
+// #define echopin D6
+
 //set global variable utuk menyimpan nilai durasi dan jarak
 long durasi;
 int jarak;
