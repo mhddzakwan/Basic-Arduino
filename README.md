@@ -162,7 +162,7 @@ Sensor Ultrasonic HC-SR04 adalah sensor jarak. Menggunakan prinsip kecepatan sua
 
 [click disini untuk melihat code](https://github.com/mhddzakwan/Basic-Arduino/blob/main/servo/kontrol_servo.ino)
 
-## Simulasi Tong Sampah Otomastis menggunakan HC-SR04 dan motor servo
-![Alt text](images/gabungan_sensor.png)
+## Simulasi Tong Sampah Otomastis menggunakan HC-SR04, motor servo dan LED
+![Alt text](images/gabungan_led.png)
 
 [click disini untuk melihat code](https://github.com/mhddzakwan/Basic-Arduino/blob/main/gabungan/gabungan.ino)
