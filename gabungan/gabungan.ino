@@ -2,6 +2,7 @@
 
 Servo myservo;
 
+// Arduino
 #define servopin 9  
 #define trigpin 2
 #define echopin 3
@@ -9,6 +10,15 @@ Servo myservo;
 #DEFINE LED_RED 7
 #DEFINE LED_YELLOW 8
 #DEFINE LED_GREEN 10
+
+// Wemos
+// #define servopin D7
+// #define trigpin D5
+// #define echopin D6
+
+// #DEFINE LED_RED D1
+// #DEFINE LED_YELLOW D2
+// #DEFINE LED_GREEN D3
 
 long durasi;
 int jarak;
